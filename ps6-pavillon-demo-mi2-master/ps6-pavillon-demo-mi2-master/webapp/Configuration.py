@@ -1,0 +1,1 @@
+LOCATION = "Fribourg, Boulevard de Pérolles 80"
